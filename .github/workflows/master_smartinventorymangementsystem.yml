@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'SmartInventoryMangementSystem'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5DC54F4B65284E56B552324602D2EDBB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E9116219ED94EC2A2BFB1561CF5C4C8 }}
           package: '*.jar'
